@@ -1,4 +1,4 @@
-## UNData API Exercise
+# UNData API Exercise
 
 In this exercise, you'll redo the data gathering phase of the UNData Exploration project by using APIs instead of downloading csv files.
 
@@ -24,4 +24,4 @@ You'll make use of the [World Bank Indicators API](https://datahelpdesk.worldban
 
 5. If you haven't already done so and you would like to get some additional practice using loops, use the page parameter in order to pull all records. Do not change the value of the per_page parameter. You will likely need to utilize a loop of some kind in order to pull all records.
 
-6. The endpoint "http://api.worldbank.org/v2/indicator" will return information about all available indicators. See [Indicator API Queries](https://datahelpdesk.worldbank.org/knowledgebase/articles/898599-indicator-api-queries). Use this endpoint to find the code for the "Public Expenditure on Education (% GDP)" indicator.
+6. The endpoint "<http://api.worldbank.org/v2/indicator>" will return information about all available indicators. See [Indicator API Queries](https://datahelpdesk.worldbank.org/knowledgebase/articles/898599-indicator-api-queries). Use this endpoint to find the code for the "Public Expenditure on Education (% GDP)" indicator.
